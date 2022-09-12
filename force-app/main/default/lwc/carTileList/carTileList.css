@@ -1,0 +1,13 @@
+c-car-tile{
+    min-width: 200px;
+    flex: 1;
+
+}
+.contents{
+  
+    display: flex;
+    flex-wrap: wrap;
+}
+.cardCenter{
+    text-align: center;
+}
